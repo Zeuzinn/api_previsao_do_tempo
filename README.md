@@ -40,7 +40,7 @@ Este projeto fornece **previsões do tempo** para qualquer cidade do mundo, usan
 **1. Clonar o Repositório**
 
 ```bash
-git clone https://github.com/Zeuzinn/previsao_do_tempo.git
+git clone https://github.com/Zeuzinn/api_previsao_do_tempo.git
 cd previsao_do_tempo
 ```
 
